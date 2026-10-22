@@ -1,10 +1,10 @@
 # Oblibena-alba-Kanye-Westa
-### Textik
+### Textik,
 **Napíšu vám moje oblíbená alba Kanyeho Westa.**
 ![Yeezus](images/yeezus.jpg)
 [Spotify stránka Kanyeho](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x)
 
-List
+*List*
 - My Beatiful Dark Twisted Fantasy
 - The Life of Pablo
 - Yeeus
