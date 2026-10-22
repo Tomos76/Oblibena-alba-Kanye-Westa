@@ -13,3 +13,4 @@ List
 - Late Registration
 
 ![MBDTF](images/MBDTF.jpg)
+[Link na album MBDTF](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv)
